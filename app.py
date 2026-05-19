@@ -68,3 +68,8 @@ if prediction_proba > 0.5:
 else:
     st.write('The customer is not likely to churn.')
 
+print("Input before encoding:", input_data)
+print("After OHE:", geo_df)
+print("Final input shape:", input_data.shape)
+print("Scaled input:", input_data_scaled)
+print("Prediction raw:", model.predict(input_data_scaled))
