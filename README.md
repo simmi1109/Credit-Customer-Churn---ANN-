@@ -79,6 +79,9 @@ If probability > 0.5 → “The customer is likely to churn.”
 
 Else → “The customer is not likely to churn.”
 
+<img width="1207" height="720" alt="image" src="https://github.com/user-attachments/assets/ad044f9f-901f-4e85-86c1-9e7b061534c4" />
+<img width="731" height="519" alt="image" src="https://github.com/user-attachments/assets/5c7bc4a4-2b7c-43b9-a562-96ae6a5883ce" />
+
 📂 Project Structure
 Code
 ├── app.py                # Streamlit app
